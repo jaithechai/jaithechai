@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=jaidilbaghi&style=flat-square&color=0077B6&label=profile+views" />
+<img src="https://komarev.com/ghpvc/?username=jaithechai&style=flat-square&color=0077B6&label=profile+views" />
 
 </div>
 
@@ -54,19 +54,11 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jaidilbaghi&hide_border=true&background=0D0D0D&stroke=0D0D0D&ring=0077B6&fire=00B4D8&currStreakNum=FFFFFF&sideNums=90E0EF&currStreakLabel=00B4D8&sideLabels=90E0EF&dates=0077B6" />
+<img src="https://streak-stats.demolab.com?user=jaithechai&hide_border=true&background=0D0D0D&stroke=0D0D0D&ring=0077B6&fire=00B4D8&currStreakNum=FFFFFF&sideNums=90E0EF&currStreakLabel=00B4D8&sideLabels=90E0EF&dates=0077B6" />
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/0077B6/jaidilbaghi" alt="contribution graph" width="100%" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaidilbaghi/jaidilbaghi/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaidilbaghi/jaidilbaghi/output/snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/jaidilbaghi/jaidilbaghi/output/snake-dark.svg" />
-</picture>
+<img src="https://ghchart.rshah.org/0077B6/jaithechai" alt="contribution graph" width="100%" />
 
 </div>
 
@@ -76,7 +68,7 @@
   <sub>ECE @ UT Austin · solar cars · ML research · building things that matter</sub>
   <br/><br/>
   <a href="https://jai-portfolio-cyan.vercel.app">🌐 portfolio</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/jaidilbaghi">💼 linkedin</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/jaithechai">💼 linkedin</a> &nbsp;·&nbsp;
   <a href="mailto:jai.dilbaghi@gmail.com">📩 email</a>
 </div>
 
