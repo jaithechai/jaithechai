@@ -17,7 +17,6 @@
 | | Project | Stack | Status |
 |---|---|---|---|
 | ☀️ | **Solar Car** — electrical + telemetry lead for Plano Green Team's race car | KiCad · RPi · InfluxDB · Grafana | `live` |
-| 🧠 | **Autonomous Driving CNN** — image classifier built from scratch at UTD DEIL Lab | Python · CNN · GridSearchCV | `done` |
 | 💪 | **Gym Form Analyzer** — real-time computer vision feedback on workout form | Python · XGBoost · CV | `done` |
 | 🌐 | **Portfolio** — my corner of the internet | Next.js · Framer Motion · Vercel | `live` |
 
